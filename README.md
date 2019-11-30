@@ -9,6 +9,8 @@ test4.m simulates spherical aberrations with different ratio of R1/R2
 
 test3.m simulates the behavior of double-spherical surface refraction of convex-concave union.
 
+test5.m simulates dispesion.
+
 three_D_test.m simulates 3D situation of aberration 
 
 spherical.m simulates single-spherical surface refraction with both concave and convex.
